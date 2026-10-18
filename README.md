@@ -181,7 +181,7 @@ python run_project.py
 Data Analytics | Data Science | Machine Learning | Business Intelligence
 
 LinkedIn:
-https://linkedin.com/in/shubham-panchal-a100282a8
+https://www.linkedin.com/in/suhani-chaudhari-713202408/
 
 <!-- auto-update 2024-05-31 18:25:18 -->
 
