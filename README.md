@@ -176,9 +176,9 @@ python run_project.py
 
 ## Author
 
-**Shubham Panchal**
+**SUHANIBEN KRUPAL CHAUDHARI**
 
-Data Analytics | Data Science | Machine Learning | Business Intelligence
+SUPPLY CHAIN ANALYST
 
 LinkedIn:
 https://www.linkedin.com/in/suhani-chaudhari-713202408/
